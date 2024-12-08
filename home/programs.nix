@@ -31,6 +31,9 @@
     gimp
     inkscape
 
+    # video
+    davinci-resolve
+
     # music
     vmpk
     musescore
